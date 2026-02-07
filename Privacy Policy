@@ -1,64 +1,117 @@
-Privacy Policy
+🔐 Privacy Policy
 
-Effective Date: [Insert Date]
+Last updated: February 7, 2026
 
-Thank you for using [Your App Name] (“the App”). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our application.
+Welcome to Axryde Studio (“we”, “our”, or “us”). This Privacy Policy explains how we handle information when you use our applications and services, including AI-powered games and tools developed by Axryde Studio (such as Neuro-Link: Singularity).
+
+We respect your privacy and are committed to protecting it.
 
 1. Information We Collect
 
-We may collect the following types of information:
+Our applications are designed to work primarily offline and do not require user accounts.
 
-a) Personal Information
+We may collect the following limited information:
 
-We do not collect personally identifiable information such as name, address, phone number, or email unless you voluntarily provide it (e.g., contacting support).
+a) Non-Personal Usage Data (Stored Locally Only)
 
-b) Usage Data
+The following data may be stored on your device:
 
-We may collect non-personal information such as:
+Game progress
 
-Device type and operating system
+Scores and statistics
 
-App usage statistics
+App settings (theme, sound, etc.)
 
-Crash logs and performance data
+This data never leaves your device unless you uninstall the app or clear app storage.
 
-This data is used only to improve app functionality and user experience.
+b) AI Interaction Data (When Online)
 
-c) Third-Party Services
+If you use AI-powered features (such as dynamically generated puzzles):
 
-The app may use third-party services (such as analytics or advertising providers) that may collect information used to identify you. These services operate under their own privacy policies.
+Puzzle prompts
 
-2. How We Use Your Information
+Player answers
 
-We use the collected information to:
+These are sent temporarily to the AI provider (Google Gemini API) solely for gameplay content generation.
 
-Improve app performance and features
+Axryde Studio does not store this information on any server.
 
-Fix bugs and technical issues
+2. What We Do NOT Collect
 
-Understand usage trends
+Axryde Studio does NOT collect:
 
-Ensure app security and stability
+Name
 
-3. Data Storage and Security
+Email address
 
-We take reasonable measures to protect your data from unauthorized access, alteration, or disclosure. However, no method of transmission over the internet or electronic storage is 100% secure.
+Phone number
 
-4. Advertisements (If Applicable)
+Physical location
 
-If the app displays ads, third-party ad networks may use cookies or similar technologies to show relevant ads. We do not control how third-party advertisers collect or use your data.
+Contacts
+
+Photos
+
+Biometric information
+
+We do NOT create user profiles.
+
+3. Third-Party Services
+
+Our apps may use:
+
+Google Gemini API (for AI puzzle generation)
+
+These services may collect anonymous technical data according to their own privacy policies.
+
+Google Privacy Policy:
+https://policies.google.com/privacy
+
+Axryde Studio has no control over third-party data handling.
+
+4. Data Storage
+
+Gameplay data is stored locally on your device.
+
+No centralized database is used.
+
+No user accounts are created.
+
+You fully control your data.
 
 5. Children’s Privacy
 
-This app does not knowingly collect personal information from children under the age of 13. If you believe that a child has provided personal information, please contact us and we will remove it promptly.
+Our applications are suitable for general audiences.
 
-6. Changes to This Privacy Policy
+We do not knowingly collect personal information from children under 13.
+If you believe such data was provided, please contact us and we will remove it immediately.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the updated date will be revised accordingly.
+6. Security
 
-7. Contact Us
+We take reasonable measures to protect your data. Since most information remains on your device, security largely depends on your device settings.
 
-If you have any questions or concerns about this Privacy Policy, please contact us:
+No digital system is completely secure.
 
-Email: [your-email@example.com
-]
+7. Your Rights
+
+You may:
+
+Clear app data at any time
+
+Uninstall the app to remove all locally stored information
+
+No additional requests are required.
+
+8. Changes to This Policy
+
+This Privacy Policy may be updated occasionally.
+
+Updates will be posted on this GitHub page.
+
+9. Contact
+
+If you have any questions regarding this Privacy Policy:
+
+GitHub: https://github.com/Dikshant1408
+
+Studio: Axryde Studio
